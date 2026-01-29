@@ -5,7 +5,7 @@ A complete MERN-style user management system with a React frontend and Node.js/E
 ## 🏗️ Project Structure
 
 ```
-├── src/                # React frontend (runs in Lovable)
+├── src/                # React frontend
 │   ├── components/
 │   ├── hooks/
 │   ├── pages/
@@ -21,9 +21,9 @@ A complete MERN-style user management system with a React frontend and Node.js/E
     └── server.js
 ```
 
-## 🚀 Frontend Setup (Lovable)
+## 🚀 Frontend Setup 
 
-The frontend is already running in Lovable! It's built with:
+The frontend is built with:
 - **React 18** with TypeScript
 - **Tailwind CSS** + **shadcn/ui** components
 - **React Query** for data fetching
@@ -131,7 +131,7 @@ npm start
 ## 🚀 Deployment
 
 ### Frontend
-The frontend can be published directly from Lovable.
+The frontend can be deployed to any static hosting service like Vercel, Netlify, or GitHub Pages.
 
 ### Backend
 Deploy to any Node.js hosting:
